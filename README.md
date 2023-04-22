@@ -16,7 +16,6 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-    - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Setup](#setup)
@@ -88,13 +87,7 @@ APIs
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LIVE DEMO -->
 
-## 🚀 Live Demo <a name="live-demo"></a>
-
-- [Live Demo Link]()
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
 
@@ -218,7 +211,7 @@ If you like this project give me a star ⭐️
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I want to thank my coding partner Julio Quezada who help me a lot to complete this project.
+I want to thank my coding partner Fredo st fleur who help me a lot to complete this project.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
