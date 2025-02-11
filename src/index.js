@@ -11,7 +11,7 @@ const shows = [];
 async function main() {
   const appId = 'p01X0Mr4syDGinD4IhgC';
 
-  const showIds = Array.from({ length: 100 }, (_, index) => index + 1);
+  const showIds = Array.from({ length: 12 }, (_, index) => index + 70);
   const cardIndices = Array.from({ length: 100 }, (_, index) => `card${index + 70}`);
 
   await Promise.all(
